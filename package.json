@@ -1,0 +1,9 @@
+{
+    "private":true,
+    "workspaces":[
+        "pr1",
+        "pr2_gen_password",
+        "pr3_currecy_converter",
+        "pr4_routing"
+    ]
+}
