@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* for latest version taiwind.config.js is not created so darkMode:"class" will aslo
+not works and hence this single line works fine */
+
+@custom-variant dark (&:where(.dark, .dark *)); 
